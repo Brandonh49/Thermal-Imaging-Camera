@@ -9,7 +9,6 @@ You should comment out all portions of your portfolio that you have not complete
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 | Brandon H | Chadwick School | Hardware Engineering | Incoming Junior |
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
@@ -78,9 +77,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Adafruit MLX90640 IR Thermal Camera Breakout - 55 Degree | Thermal Camera Board/Sensor | $74.95 | <a href="https://www.adafruit.com/product/4407"> Link </a> |
+| STEMMA QT / Qwiic JST SH 4-pin to Premium Male Headers Cable - 150mm | Non-solder connection option for camera board | $0.95 | <a href="https://www.adafruit.com/product/4209"> Link </a> |
+| Raspberry Pi 4 4GB Starter Kit - 64GB w/ Housing | Raspberry Pi Computer | $104.99 | <a href="https://a.co/d/bKFdsDf"> Link </a> |
+| Electronics Kit | General electronics kit | $15.99 | <a href="https://a.co/d/hcAJmUk"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
