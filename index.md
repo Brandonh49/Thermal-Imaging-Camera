@@ -83,8 +83,6 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
@@ -93,10 +91,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Raspberry Pi 4 4GB Starter Kit - 64GB w/ Housing | Raspberry Pi Computer | $104.99 | <a href="https://a.co/d/bKFdsDf"> Link </a> |
 | Electronics Kit | General electronics kit | $15.99 | <a href="https://a.co/d/hcAJmUk"> Link </a> |
 
-# Other Resources/Examples
+# Other Resources
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+- [General Guide] <a href="https://tomshaffner.github.io/PiThermalCam/">
 
-To watch the BSE tutorial on how to create a portfolio, click here.
