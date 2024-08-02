@@ -46,6 +46,17 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+For my first milestone, I had to set up the hardware and software aspects of the project to get the camera fully up and running. The camera itself requires a 3.3V, GND, SDA, and SCL connection to the Raspberry Pi. These connections can be fulfilled without soldering using the Stemma QT cables, though this specific configuration that I am building uses QT to male headers, meaning it cannot be directly connected to the Raspberry Pi. Instead, I used a breadboard and another set of male/female cables to bridge the Pi and camera through the breadboard.
+
+Once this was done, I then used PuTTY (you can use any SSH client) to configure the I2C settings of the Pi through the GUI. This process includes setting the baudrate to the MX90640's max supported rate, 400000, and ensuring any other relevant I2C functions are enabled. Once this was done, I then created a virtual environment for Python and installed the pithermalcam library from PyPi via pip3. This allows me to create a test and run file for the camera, which I then move to a directory of the actual Pi. At this point, the file just needs to be excecuted via the Pi terminal and the basic functionality of the camera should be working.
+
+
+
+
+
+
+
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
